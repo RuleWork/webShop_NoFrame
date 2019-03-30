@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="categoryDAO" class="com.itself.dao.impl.CategoryDAOImpl"/>
+	<bean id="userDAO" class="com.itself.dao.impl.UserDAOImpl"/>
+	<bean id="productDAO" class="com.itself.dao.impl.ProdoctDAOImpl"/>
+	<bean id="orderDAO" class="com.itself.dao.impl.OrderDAOImpl"/>
+</beans>
